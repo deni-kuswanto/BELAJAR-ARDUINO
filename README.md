@@ -1,2 +1,58 @@
 # BELAJAR-ARDUINO
 INI MERUPAKAN REPOSITORY YANG BERISIKAN CATATAN TENTANG ARDUINO
+================================================================
+Arduino untuk belajar yang paling direkomendasikan adalah Arduino UNO DIP dan Arduino ATMEGA 2560.
+
+Arduino UNO dan ATMEGA 2560 memiliki shield yang siap pasang tanpa pusing memikirkan pin pada Arduino, shield-shield tersebut antara lain sebagai berikut:
+
+shield oled display,
+shield LCD,
+shield keypad,
+shield motor driver,
+Lora shield,
+dan shield lainnya.
+
+=============================================================================
+
+shield arduino
+Pin ekspansion Arduino
+HID Arduino
+
+==============================================================================
+
+Sensor dan alat untuk Arduino:
+
+Sensor infrared line tracking TCRT 5000 Harga 5.900, untuk robot line follower
+
+motor Harga 15 ribu - 20 ribuan, untuk menggerakkan robot line follower
+
+driver motor L298 Harga 22.900, untuk menggerakkan motor
+
+sensor HCSR04 Harga 11.500, sensor ultrasonik untuk mendeteksi Jarak
+
+sensor warna / sensor TCS3200 Harga 41.900, untuk membedakan warna
+
+sensor kemiringan / SW520D Tilt sensor Harga 9.900, untuk mendeteksi getaran
+
+sensor temperature dan kelembaban / sensor DHT11 Harga 17.000, untuk mendeteksi temperature dan kelembaban 
+
+sensor hujan / sensor raindrop Harga 9.900, untuk mendeteksi hujan
+
+sensor kelembaban tanah / soil mosture Harga 8.000, untuk mendeteksi kelembaban tanah
+
+sensor termokopel / thermocouple high temp Harga 51.900, untuk mendeteksi temperature yang lebih tinggi misalnya diatas 100 derajat celcius
+
+modul Bluetooth HC06 Harga 49.900, untuk menghubungkan mikrokontroller dengan bluetooth 
+
+node mcu lolin / esp32 lolin, untuk menghubungkan sensor-sensor dengan internet
+
+Driver motor berbentuk shield Arduino / L293D Motor Driver Shield Harga 24.500, untuk menggerakkan motor
+
+Variabel PWM Motor Led Dimmer Harga 29.000, untuk mengatur kecepatan motor
+
+Proto shield Harga 20.000, shield untuk memudahkan dalam prototipe rangkaian tanpa menyolder
+
+Tower Pro Servo sg90 Harga 17.200, merupakan motor servo(motor yang bisa diatur sudut putarnya), biasanya digunakan untuk sendi-sendi dalam robot
+
+SUMBER:
+https://youtu.be/4wvDYZKfoDY?si=Vk0uQrKCUOFHKFrj
