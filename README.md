@@ -10,6 +10,7 @@ shield LCD,
 shield keypad,
 shield motor driver,
 Lora shield,
+USB shield
 dan shield lainnya.
 
 =============================================================================
