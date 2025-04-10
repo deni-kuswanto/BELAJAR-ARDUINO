@@ -5,19 +5,19 @@ Arduino untuk belajar yang paling direkomendasikan adalah Arduino UNO DIP dan Ar
 
 Arduino UNO dan ATMEGA 2560 memiliki shield yang siap pasang tanpa pusing memikirkan pin pada Arduino, shield-shield tersebut antara lain sebagai berikut:
 
-shield oled display,
-shield LCD,
-shield keypad,
-shield motor driver,
-Lora shield,
-USB shield
-dan shield lainnya.
+shield oled display <br />
+shield LCD <br />
+shield keypad <br />
+shield motor driver <br />
+Lora shield <br />
+USB shield <br />
+dan shield lainnya <br />
 
 =============================================================================
 
-shield arduino
-Pin ekspansion Arduino
-HID Arduino
+shield arduino <br />
+Pin ekspansion Arduino <br />
+HID Arduino <br />
 
 ==============================================================================
 
